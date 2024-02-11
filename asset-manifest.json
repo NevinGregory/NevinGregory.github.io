@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NevinGregory.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/NevinGregory.github.io/static/js/main.6da9b99c.js",
+    "static/js/592.74932e6f.chunk.js": "/NevinGregory.github.io/static/js/592.74932e6f.chunk.js",
+    "static/media/logo.svg": "/NevinGregory.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NevinGregory.github.io/index.html",
+    "main.f855e6bc.css.map": "/NevinGregory.github.io/static/css/main.f855e6bc.css.map",
+    "main.6da9b99c.js.map": "/NevinGregory.github.io/static/js/main.6da9b99c.js.map",
+    "592.74932e6f.chunk.js.map": "/NevinGregory.github.io/static/js/592.74932e6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6da9b99c.js"
+  ]
+}
